@@ -11,4 +11,4 @@ If you have any issues, questions, or feedback about T.A.P, please contact:
 - App Store issues
 
 You can also open an issue here:
-👉 https://github.com/USERNAME/tap-game-support/issues
+👉 https://github.com/emirmogolwork/T.A.P-game-support/issues
